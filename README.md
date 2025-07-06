@@ -466,7 +466,8 @@ on the DMCrypt kernel module.
 ⛔ **Avoid**
 - **WeTransfer** - [Bad privacy policy](https://tosdr.org/en/service/214). Files are not e2e encrypted. Website has many analytics and trackers.
 - **SendAnywhere** - No e2e encryption. Website has loads of analytics and trackers from Facebook, Google, Cloudflare...
-
+- [DotPlus](https://github.com/nigdanil/dotplus) – Offline QR & barcode generator that works entirely locally. Supports GUI & CLI, bulk operations via CSV, export to PNG/PDF. Fully open-source and privacy-respecting.
+  
 ✅ **Instead use**
 - [Blaze](https://blaze.now.sh/) - A fast, p2p and radically different way to transfer files.
 - [Blindsend](https://github.com/blindnet-io/blindsend) - Open source tool for private, end-to-end encrypted file exchange.
